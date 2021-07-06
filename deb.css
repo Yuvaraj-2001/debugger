@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    border:5px solid rgb(88, 3, 3) ;
+    padding: 30px;
+    background-color: rgb(49, 98, 0);
+}
+.well{
+    margin: 0px; 
+    display: flex;
+    justify-content: space-between;
+}
+.well-heading{
+    margin: 0px; 
+    display: flex;
+    justify-content: space-around;
+}
+.txtarea{
+    width: 43vw;
+    height: 33vw;
+    background: black;
+    color: #0488fb;
+    border: 2px solid rgba(255, 255, 255, 0.829);
+    border-radius: 5px;
+    overflow-y: scroll;
+}
+.txtarea-container{
+    padding: 20px;
+}
+.heading{
+ padding: 10px;
+ display: flex;
+ justify-content: center;
+ font-size: 30px;
+ font-weight: bolder;
+ font-style: oblique;
+ color: rgb(0, 81, 255);
+}
+.h3{
+    color: rgb(255, 0, 234);;
+    padding-bottom: 30px;
+    font-size: 20px;
+    font-weight: 800;
+    font-style: italic;
+}
+.btn-block{
+    padding: 8px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 0, 234);
+    border: black solid 4px;
+    border-radius: 5px;
+    width: 90%;
+    font-size: 23px;
+    font-style: oblique;
+    font-weight: bolder;
+}

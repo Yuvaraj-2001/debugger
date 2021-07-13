@@ -33,7 +33,7 @@ body{
  font-size: 30px;
  font-weight: bolder;
  font-style: oblique;
- color: rgb(0, 81, 255);
+ color: rgb(106, 140, 212);
 }
 .h3{
     color: rgb(255, 0, 234);;
@@ -52,4 +52,7 @@ body{
     font-size: 23px;
     font-style: oblique;
     font-weight: bolder;
+}
+.blue{
+    background-color:  rgba(17, 82, 223, 0.842);;
 }
